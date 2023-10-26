@@ -31,7 +31,7 @@ Process, e.g. what other roles and people are you relying on before, and after u
 Information Exchange. e.g. What is the level of detailing (expected) for your tool/setup to work as intended? what is the LOD after running your tool/setup? Are you relying on classification systems? standards?
 There are many other areas you can look into, but some are less relevant to your implementation, so rather than trying to write about everything, please try to focus on what your tool/setup really tries to achieve. 
 
-![<img src="A3_Picture1"/>](figures/Flowcharts/OurProject.png "Workflow")
+![<img src="A3_Picture1.png"/>](figures/Flowcharts/OurProject.png "Workflow")
 
 <!-- CREATORS -->
 ## Creators

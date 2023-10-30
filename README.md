@@ -51,7 +51,15 @@ The aim of our project is to create a workflow that extracts the necesary inform
 
 The diagram below (Figure 1) illustrates the various steps associated with an IFC file and how to perform a life cycle assessment (LCA). This diagram were also presented in the previous assigment as the overall purpose remains the same.
 
+
 ![Diagram01](A3_Picture1.png "Diagram 1")
+
+The group's focus is to ensure that the user of this tool receives the following outputs:
+
+- An Excel sheet providing an overview of the building category along with its associated dimensions and properties.
+- An overview of any errors/unrealistic modeling choices made during the modeling phase.
+As a result, the tool's user will save time by receiving this summary sheet and will also know exactly where to update or account for errors in the model.
+
 
 <!-- 3B: Propose a (design for a) tool / workflow -->
 ## 3B: Propose a (design for a) tool / workflow

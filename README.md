@@ -61,6 +61,11 @@ The group's focus is to ensure that the user of this tool receives the following
 As a result, the tool's user will save time by receiving this summary sheet and will also know exactly where to update or account for errors in the model.
 
 
+det overordnet formål med dette værktøj
+brgueren af dette værktøj skal lave lcabyg. brugeren vil derfor benytte dette værtøj som en slags plug-in som analyser en IFC model. ved at bruge dette værktøj kommer følgende ud: et overview over alle bygningsdele med deres dimentioner, mængder og materialer og et output med bygningsdele som enten mangler et materiale eller har urealistiske dimensioner. 
+
+
+
 <!-- 3B: Propose a (design for a) tool / workflow -->
 ## 3B: Propose a (design for a) tool / workflow
 - Process: model the process diagram from your use case in BPMN.io please remember to save the .bpmn file and you can save a .svg file that you can insert into your report.

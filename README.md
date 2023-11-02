@@ -54,15 +54,12 @@ The diagram below (Figure 1) illustrates the various steps associated with an IF
 
 ![Diagram01](A3_Picture1.png "Diagram 1")
 
-The group's focus is to ensure that the user of this tool receives the following outputs:
+The main purpose of this tool is to be used by an LCAbyg user in the industry to save time on current processes. In the existing practices, users typically have to manually extract extensive quantity schedules from the model or analyze building drawings. The user will utilize this tool as a kind of plug-in to analyze an IFC model.
 
-- An Excel sheet providing an overview of the building category along with its associated dimensions and properties.
-- An overview of any errors/unrealistic modeling choices made during the modeling phase.
-As a result, the tool's user will save time by receiving this summary sheet and will also know exactly where to update or account for errors in the model.
+By using this tool, the following outputs are obtained:
 
-
-det overordnet formål med dette værktøj
-brgueren af dette værktøj skal lave lcabyg. brugeren vil derfor benytte dette værtøj som en slags plug-in som analyser en IFC model. ved at bruge dette værktøj kommer følgende ud: et overview over alle bygningsdele med deres dimentioner, mængder og materialer og et output med bygningsdele som enten mangler et materiale eller har urealistiske dimensioner. 
+- An overview of all building components with their dimensions, quantities, and materials. This will be organized in a way that can be easily used by the user to input the content into LCAbyg.
+- An overview of building components that either lack a material or have unrealistic dimensions. This allows the user to quickly and easily identify which specific building components need to be re-modeled or further investigated. In addition, the tool will highlight any errors or unrealistic modeling choices made during the modeling phase. As a result, the tool's user will save time by receiving this summary sheet and will also know exactly where to update or account for errors in the model. Additionally, the user will also have the convenience of easily forwarding this overview to the person responsible for the model if the user is not directly involved in modeling activities.
 
 
 

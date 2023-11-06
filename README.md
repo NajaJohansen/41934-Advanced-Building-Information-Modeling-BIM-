@@ -70,6 +70,9 @@ By using this tool, the following outputs are obtained:
 
 - description of the process of your tool / workflow.
 
+As a scope of our project, the group has been solely on gathering data related to the "doors" category (materials and quantities) using the IFC model of the Skylab building at DTU campus. Diagram 2 below illustrates the proof of concept that was performed in this use case. The diagram only describes the workflow we followed to gather dimensions and material data for the doors category. 
+INSERT DESCRIPTION OF OUTPUT FILES
+
 ![Diagram02](Diagram2.png "Diagram 2")
 
 <!-- 3D: Value What is the potential improvement offered by this tool? -->

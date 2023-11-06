@@ -86,11 +86,9 @@ In this use case, only properties associated with the doors have been examined. 
 <!-- 3D: Value What is the potential improvement offered by this tool? -->
 ## 3D: Value What is the potential improvement offered by this tool?
 
-This is the common question when developing tools and processes as an intrapreneur in a company. You should consider the business and societal value of this tool – does it save time to the company, does it make employees happier / more productive? Could it reduce material use in society?
+The goal of our tool is to create both business value and societal value. 
+Nowadays, extracting the material and quantity information from an IFC file is a time-consuming process.  Moreover, it could be difficult to identify human modelling errors that could potentially affect the outcome of the LCA. Specially if the modelling work, the data extraction and the LCA study is carried out by different users with different backgrounds and skills. Besides, these steps are usually executed across different departments or organizations. This tool would allow a user lacking modelling and programming skills to identify the modelling errors that could affect the LCA. A list of these errors could be directly sent to the model creator, who should adjust the model. On the other hand, the script would allow the user to extract the necessary data to perform the LCA in a faster and easy way. Thus, the tool could improve the accuracy of the LCA and optimize current workflows, saving time and reducing the level of complexity. This could be translated into economical value but also into environmental value.  Increasing the accuracy of the LCA of a building could lead to more informed decisions regarding the reduction of the environmental impacts during de design phase. Enhancing the precision of a building's LCA has the potential to empower more informed choices in minimizing environmental impacts during the design phase
 
-Describe the business value (How does it create value for your business/employer)
-Describe the societal value (How does it make the world better)
-N.B. If it doesn’t do either of these things (ideally it should do both - don’t do it!!)
 
 
 

@@ -17,6 +17,7 @@
 4. [3D: Value What is the potential improvement offered by this tool?](#3d-value-what-is-the-potential-improvement-offered-by-this-tool)
 
 
+
 ### THIS IS BASED ON THE MAIL FROM THE TEACHER
 Some of you asked me to clearify what part of the BIM Execution plan, BEP you should focus on!?
 

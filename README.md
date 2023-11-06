@@ -69,6 +69,7 @@ By using this tool, the following outputs are obtained:
 
 - description of the process of your tool / workflow.
 
+![Diagram01](Diagram 2.png "Diagram 2")
 
 <!-- 3D: Value What is the potential improvement offered by this tool? -->
 ## 3D: Value What is the potential improvement offered by this tool?

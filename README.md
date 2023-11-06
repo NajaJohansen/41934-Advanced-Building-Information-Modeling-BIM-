@@ -47,7 +47,7 @@ There are many other areas you can look into, but some are less relevant to your
 - Model Use (Bim Uses): Please refer initially to the Mapping BIM uses, use cases and processes section in this document.
 
   
-The aim of our project is to create a workflow that extracts the necesary information of an IFC file in order to perform a life cycle analysis (LCA) of a buidling. An LCA calculation has become an essential tool in the construction industry, and in Denmark, it is mandatory to perform an LCA calculation for new buildings. However, there are several companies that perform LCAs anyway for internal use or for branding purposes. In Denmark, the most common LCA tool used for the building industry is LCAbyg.  This use case is therefore intended for all companies that need to perform an LCA in the construction industry. As mentioned, the submission focuses on performing an LCA. To conduct a comprehensive LCA, one needs to have knowledge of the total building area, all materials used, and their respective quantities. Additionally, information about the building's energy consumption and product specific EDP’s are also required. 
+The aim of our project is to create a workflow that extracts the necesary information of an IFC file in order to perform a life cycle analysis (LCA) of a buidling and at the same time analyze whether there are errors or unrealistic data in the model and clarify this for the user of this tool. An LCA calculation has become an essential tool in the construction industry, and in Denmark, it is mandatory to perform an LCA calculation for new buildings. However, there are several companies that perform LCAs anyway for internal use or for branding purposes. In Denmark, the most common LCA tool used for the building industry is LCAbyg. This use case is therefore intended for all companies that need to perform an LCA in the construction industry. To conduct a comprehensive LCA, one needs to have knowledge of the total building area, all materials used, and their respective quantities. Additionally, information about the building's energy consumption and product specific EDP’s are also required. 
 
 The diagram below (Figure 1) illustrates the various steps associated with an IFC file and how to perform a life cycle assessment (LCA). This diagram were also presented in the previous assigment as the overall purpose remains the same.
 
@@ -55,7 +55,7 @@ The diagram below (Figure 1) illustrates the various steps associated with an IF
 ![Diagram01](Diagram1.png "Diagram 1")
 
 
-The main purpose of this tool is to be used by an LCAbyg user in the industry to save time on current processes. In the existing practices, users typically have to manually extract extensive quantity schedules from the model or analyze building drawings. The user will utilize this tool as a kind of plug-in to analyze an IFC model.
+The main purpose of this tool is to be used by an LCAbyg user in the industry to save time on current processes. In the existing practices, users typically have to manually extract extensive quantity schedules from the model or analyze building drawings manually. The user will utilize this tool as a kind of plug-in to analyze an IFC model automatically.
 
 By using this tool, the following outputs are obtained:
 
@@ -74,6 +74,10 @@ As a scope of our project, the group has been solely on gathering data related t
 INSERT DESCRIPTION OF OUTPUT FILES
 
 ![Diagram02](Diagram2.png "Diagram 2")
+
+If you wish to further develop and enhance this tool in the future, it's important to consider how to identify the specific bilding part of the building. Currently, a specific ID number is missing, which needs to be linked to the particular building component represented in the two output files. For example if one intends to use output file 1 (represents errors) to go back into the building model and actually edit or update it, it's necessary to know the specific location, which is not currently possible.
+
+In this use case, only properties associated with the doors have been examined. In the future, the tool will be developed further to include all building components.
 
 <!-- 3D: Value What is the potential improvement offered by this tool? -->
 ## 3D: Value What is the potential improvement offered by this tool?

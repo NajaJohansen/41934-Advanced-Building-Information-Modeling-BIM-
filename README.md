@@ -11,10 +11,10 @@
 
 
 # Table of Contents
-1. [Creators](#creators)
-2. [3A: Analyse use case](#3a-analyse-use-case)
-3. [3B: Propose a (design for a) tool / workflow](#3b-propose-a-design-for-a-tool--workflow)
-4. [3D: Value What is the potential improvement offered by this tool?](#3d-value-what-is-the-potential-improvement-offered-by-this-tool)
+[Creators](#creators)
+[3A: Analyse use case](#3a-analyse-use-case)
+[3B: Propose a (design for a) tool / workflow](#3b-propose-a-design-for-a-tool--workflow)
+[3D: Value What is the potential improvement offered by this tool?](#3d-value-what-is-the-potential-improvement-offered-by-this-tool)
 
 
 ### THIS IS BASED ON THE MAIL FROM THE TEACHER

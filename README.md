@@ -52,7 +52,8 @@ The aim of our project is to create a workflow that extracts the necesary inform
 The diagram below (Figure 1) illustrates the various steps associated with an IFC file and how to perform a life cycle assessment (LCA). This diagram were also presented in the previous assigment as the overall purpose remains the same.
 
 
-![Diagram01](Diagram 1.pn)
+[Diagram01](Diagram 1.png)
+[Flowcharts](figures/Flowcharts)
 
 The main purpose of this tool is to be used by an LCAbyg user in the industry to save time on current processes. In the existing practices, users typically have to manually extract extensive quantity schedules from the model or analyze building drawings. The user will utilize this tool as a kind of plug-in to analyze an IFC model.
 

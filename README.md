@@ -15,9 +15,8 @@
   <ol>
     <li>
       <a href="#Creators">Creators</a>
-  <ol>
     <li>
-      <a href="#getting-started">3A: Analyse use case</a>
+      <a href="#3A: Analyse use case">3A: Analyse use case</a>
     <li>
       <a href="#getting-started">3B: Propose a (design for a) tool / workflow</a>
 
@@ -44,7 +43,7 @@ There are many other areas you can look into, but some are less relevant to your
 - Zoyan Vangenechten, s232094
 - Laura Iglesias Castro, s230383
 
-
+<!-- 3A: Analyse use case -->
 <!-- 3A: Analyse use case -->
 ## 3A: Analyse use case
 - Goal: Goal of the tool / workflow in one sentence. i.e. to support the user to calculate the total total cost of the project.

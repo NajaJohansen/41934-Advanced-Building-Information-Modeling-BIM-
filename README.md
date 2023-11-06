@@ -9,27 +9,14 @@
     <br />
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#Creators">Creators</a>
-    <li>
-      <a href="#getting-started">3A :Analyse use case</a>
-    <li>
-      <a href="#getting-started">3B: Propose a (design for a) tool / workflow</a>
 
-      
-
-  </ol>
-</details>
 
 # Table of Contents
 
 1. [Creators](#creators)
 2. [3A: Analyse use case](#3a-analyse-use-case)
 3. [3B: Propose a (design for a) tool / workflow](#3b-propose-a-design-for-a-tool--workflow)
+4. [## 3D: Value What is the potential improvement offered by this tool?](#3d-value-what-is-the-potential-improvement-offered-by-this-tool?)
 
 
 ### THIS IS BASED ON THE MAIL FROM THE TEACHER
@@ -52,7 +39,7 @@ There are many other areas you can look into, but some are less relevant to your
 
 
 <!-- 3A: Analyse use case -->
-## 3A:Analyse use case
+## 3A: Analyse use case
 - Goal: Goal of the tool / workflow in one sentence. i.e. to support the user to calculate the total total cost of the project.
 
 - Model Use (Bim Uses): Please refer initially to the Mapping BIM uses, use cases and processes section in this document.

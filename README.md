@@ -9,12 +9,12 @@
     <br />
 </div>
 
-
 # Table of Contents
+
 1. [Creators](#creators)
-2. [3A: Analyse use case](#3a-analyse-use-case)
-3. [3B: Propose a (design for a) tool / workflow](#3b-propose-a-design-for-a-tool--workflow)
-4. [3D: Value What is the potential improvement offered by this tool?](#3d-value-what-is-the-potential-improvement-offered-by-this-tool)
+2. [Goal and Model Uses](#goal-and-model-uses)
+3. [Process and Information Exchanges](#process-and-information-exchanges)
+4. [Potential Value](#potential-value)
 
 
 <!-- CREATORS -->
@@ -24,8 +24,8 @@
 - Laura Iglesias Castro, s230383
 
 
-<!-- 3A: Analyse use case -->
-## 3A: Analyse use case 
+<!-- Model Uses -->
+## Goal and Model Uses
 The aim of our project is to create a workflow that extracts the necesary information of an IFC file in order to perform a life cycle analysis (LCA) of a buidling and at the same time analyze whether there are errors or unrealistic data in the model and clarify this for the user of this tool. An LCA calculation has become an essential tool in the construction industry, and in Denmark, it is mandatory to perform an LCA calculation for new buildings. However, there are several companies that perform LCAs anyway for internal use or for branding purposes. In Denmark, the most common LCA tool used for the building industry is LCAbyg. This use case is therefore intended for all companies that need to perform an LCA in the construction industry. Our tool is intended to be use by sustainability experterts, in charge of carrying LCA of buidlings. To conduct a comprehensive LCA, one needs to have knowledge of the total building area, all materials used, and their respective quantities. Additionally, information about the building's energy consumption and product specific EDP’s are also required. 
 
 The diagram below (Diagram 1) illustrates the various steps associated with an IFC file and how to perform a life cycle assessment (LCA). This diagram were also presented in the previous assigment as the overall purpose remains the same.
@@ -43,8 +43,8 @@ By using this tool, the following outputs are obtained:
 
 
 
-<!-- 3B: Propose a (design for a) tool / workflow -->
-## 3B: Propose a (design for a) tool / workflow
+<!-- Process and Information Exchanges -->
+## Process and Information Exchanges
 As a scope of our project, the group has been solely on gathering data related to the "doors" category (materials and quantities) using the IFC model of the Skylab building at DTU campus. Diagram 2 below illustrates the proof of concept that was performed in this use case. The diagram only describes the workflow we followed to gather dimensions and material data for the doors category. 
 
 
@@ -62,8 +62,8 @@ If you wish to further develop and enhance this tool in the future, it's importa
 
 In this use case, only properties associated with the doors have been examined. In the future, the tool will be developed further to include all building components.
 
-<!-- 3D: Value What is the potential improvement offered by this tool? -->
-## 3D: Value What is the potential improvement offered by this tool?
+<!-- Potential Value -->
+## Potential Value
 
 The goal of our tool is to create both business value and societal value. 
 Nowadays, extracting the material and quantity information from an IFC file is a time-consuming process.  Moreover, it could be difficult to identify human modelling errors that could potentially affect the outcome of the LCA. Specially if the modelling work, the data extraction and the LCA study is carried out by different users with different backgrounds and skills. Besides, these steps are usually executed across different departments or organizations. This tool would allow a user lacking modelling and programming skills to identify the modelling errors that could affect the LCA. A list of these errors could be directly sent to the model creator, who should adjust the model. On the other hand, the script would allow the user to extract the necessary data to perform the LCA in a faster and easy way. Thus, the tool could improve the accuracy of the LCA and optimize current workflows, saving time and reducing the level of complexity. This could be translated into economical value but also into environmental value.  Increasing the accuracy of the LCA of a building could lead to more informed decisions regarding the reduction of the environmental impacts during de design phase. Enhancing the precision of a building's LCA has the potential to empower more informed choices in minimizing environmental impacts during the design phase.

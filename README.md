@@ -46,7 +46,7 @@ There are many other areas you can look into, but some are less relevant to your
   
 The aim of our project is to create a workflow that extracts the necesary information of an IFC file in order to perform a life cycle analysis (LCA) of a buidling and at the same time analyze whether there are errors or unrealistic data in the model and clarify this for the user of this tool. An LCA calculation has become an essential tool in the construction industry, and in Denmark, it is mandatory to perform an LCA calculation for new buildings. However, there are several companies that perform LCAs anyway for internal use or for branding purposes. In Denmark, the most common LCA tool used for the building industry is LCAbyg. This use case is therefore intended for all companies that need to perform an LCA in the construction industry. To conduct a comprehensive LCA, one needs to have knowledge of the total building area, all materials used, and their respective quantities. Additionally, information about the building's energy consumption and product specific EDP’s are also required. 
 
-The diagram below (Figure 1) illustrates the various steps associated with an IFC file and how to perform a life cycle assessment (LCA). This diagram were also presented in the previous assigment as the overall purpose remains the same.
+The diagram below (Diagram 1) illustrates the various steps associated with an IFC file and how to perform a life cycle assessment (LCA). This diagram were also presented in the previous assigment as the overall purpose remains the same.
 
 
 ![Diagram01](Diagram1.png "Diagram 1")

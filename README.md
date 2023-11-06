@@ -10,9 +10,7 @@
 </div>
 
 
-
 # Table of Contents
-
 1. [Creators](#creators)
 2. [3A: Analyse use case](#3a-analyse-use-case)
 3. [3B: Propose a (design for a) tool / workflow](#3b-propose-a-design-for-a-tool--workflow)

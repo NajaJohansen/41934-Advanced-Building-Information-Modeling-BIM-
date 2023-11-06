@@ -17,6 +17,10 @@
       <a href="#Creators">Creators</a>
     <li>
       <a href="#getting-started">3A: Analyse use case</a>
+    <li>
+      <a href="#getting-started">3B: Propose a (design for a) tool / workflow</a>
+
+      
 
   </ol>
 </details>

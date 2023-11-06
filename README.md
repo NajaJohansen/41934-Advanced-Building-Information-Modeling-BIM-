@@ -25,6 +25,13 @@
   </ol>
 </details>
 
+# Table of Contents
+
+1. [Creators](#creators)
+2. [3A: Analyse use case](#3a-analyse-use-case)
+3. [3B: Propose a (design for a) tool / workflow](#3b-propose-a-design-for-a-tool--workflow)
+
+
 ### THIS IS BASED ON THE MAIL FROM THE TEACHER
 Some of you asked me to clearify what part of the BIM Execution plan, BEP you should focus on!?
 

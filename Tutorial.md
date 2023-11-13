@@ -8,7 +8,7 @@ Our tool extracts the necesary information of an IFC file in order to perform a 
 The tool is intended for LCA consultants with little knowledge on BIM modelling and programming. Therefore, this tutorial aims to target role level 1 (modeller). Also, we advise to check the the "video tutorial" (hyperlink) as a complementary material.  
 
 ## How to get started
-- The first step in to using the code is to download a coding program for pyhton laguage. The program has been made with Spyder an program which was launched by a   navigator called Ananconda. To download Anaconda click [here](https://www.anaconda.com/download).
+- The first step in to using the code is to download a coding program for pyhton laguage. The program has been made with Spyder an program which was launched by a   navigator called Ananconda. To download Anaconda click [here](https://www.anaconda.com/download). Once the program hs been downloaded you can open it, after a short start up you will direclty be navigated to the home page. There you will see a button to launch Spyder, after a few moments you will find yourself in the python coding program.
 - Directory
 - packages
 

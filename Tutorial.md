@@ -11,7 +11,7 @@ For this product you will need:
 - Download everyhing
 - Directory
 - packages
- [README file] (https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md))
+ [README file] ([README file]https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md))
 ## Run code
 The group's script generates two Excel sheets as output:
 - “Output_file_1_Errors”

@@ -7,10 +7,7 @@ Our tool extracts the necesary information of an IFC file in order to perform a 
 This tutorial aims to target role level 1 (modeller). The tool is intended for LCA consultants with little knowledge on BIM modelling and programming. Also, we advise to check the the "video tutorial" (hyperlink) as a complementary material.  
 
 ## How to get started
-For this product you will need:
-
-
-- Download everyhing
+-The first step in to using the code is to download a coding program for pyhton laguage. The program has been made with Spyder an program which was launched by a navigator called Ananconda. To download Anaconda click [here](https://www.anaconda.com/download).
 - Directory
 - packages
 

@@ -3,7 +3,7 @@
 - proof of concept
 - Only focusing at the doors.
   
-Our tool extracts the necesary information of an IFC file in order to perform a life cycle analysis (LCA) of a buidling: materials and quantities. Besides, it identifies potential modelling errors (such as unrealistic dimensions or lack of material assignations) that could affect the outcomes of the LCA. This tool is a proof of concept and focus only on extracting information related to the doors of the building. A more detailed description of the tool can be found in [README file] (https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md)
+Our tool extracts the necesary information of an IFC file in order to perform a life cycle analysis (LCA) of a buidling: materials and quantities. Besides, it identifies potential modelling errors (such as unrealistic dimensions or lack of material assignations) that could affect the outcomes of the LCA. This tool is a proof of concept and focus only on extracting information related to the doors of the building. A more detailed description of the tool can be found in [README file](https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md)
 
 The tool is intended for LCA consultants with little knowledge on BIM modelling and programming. Therefore, this tutorial aims to target role level 1 (modeller). Also, we advise to check the the "video tutorial" (hyperlink) as a complementary material.  
 

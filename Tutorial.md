@@ -9,7 +9,12 @@ The tool is intended for LCA consultants with little knowledge on BIM modelling 
 
 ## How to get started
 - The first step in to using the code is to download a coding program for pyhton laguage. The program has been made with Spyder an program which was launched by a   navigator called Ananconda. To download Anaconda click [here](https://www.anaconda.com/download). Once the program hs been downloaded you can open it, after a short start up you will direclty be navigated to the home page. There you will see a button to launch Spyder, after a few moments you will find yourself in the python coding program.
-- Directory
+  
+- The code requires a precise directory that includes the script and IFC-file. It should look like this:
+main folder
+├── your_script.py
+├── model
+│   ├── your_model.ifc
 - packages
 
 

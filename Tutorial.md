@@ -1,15 +1,15 @@
 ## Introduction
--Explanation of the tool and purpose
--proof of concept
--Only focusing at the doors
+- Explanation of the tool and purpose
+- proof of concept
+- Only focusing at the doors
 
 
 ## How to get started
--Download everyhing
--Directory
--packages
+- Download everyhing
+- Directory
+- packages
 
 ## Run code
--Explanation of output files
--How to use output files
-
+- Explanation of output files
+- How to use output files
+- How to use Error out put file

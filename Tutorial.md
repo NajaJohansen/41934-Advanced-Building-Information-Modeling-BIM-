@@ -13,9 +13,9 @@ For this product you will need:
 - packages
  ([README file]https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md))
 
-[Arup](https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md)
+[README file](https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md)
 
-[Arup]([https://act.speckle.arup.com/about](https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md))
+
 
 ## Run code
 The group's script generates two Excel sheets as output:

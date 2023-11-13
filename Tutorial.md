@@ -13,19 +13,10 @@ For this product you will need:
 - packages
  [README file] ([README file]https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md))
 
-[README.md]o link to an internal file in a GitHub repository, you can use relative paths. Here’s how you can do it:
 
-Link Text
 
-In this case, Link Text is the text that will be clickable, and relative/path/to/file is the path to the file in the same GitHub repository.
+[Arup]([https://act.speckle.arup.com/about](https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md))
 
-For example, if you have a file named example.md in a folder named docs, and you want to link to it from the README.md file in the root of the repository, you would write:
-
-Example Document
-
-This will create a hyperlink with the text “Example Document” that directs to the example.md file in the docs folder when clicked. Remember, the path is case sensitive and should match the exact structure of your repository. Also, spaces in folder or file names should be replaced with %20. For example, a file named example file.md in a folder named docs folder would be:
-
-Example Document
 ## Run code
 The group's script generates two Excel sheets as output:
 - “Output_file_1_Errors”

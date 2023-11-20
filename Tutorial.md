@@ -14,11 +14,11 @@ This section will go into detail on how to prepare yourself to use the tool. You
   
 - The code requires a precise directory that includes the script and IFC-file. It should look like this:
 
-  main folder
-  ├── your_script.py
-  ├── model
-  │   ├── your_model.ifc
-  
+ main folder
+├── your_script.py
+└── model
+    └── your_model.ifc
+    
 - To run the code some packages must be installed in Anaconda because these are not already present. To do this press the window key and search for 'Anaconda Prompt' and run this as an administrator. Then copy the folowing lines of text into the program and press enter: . Wait until the screens says that th download has been completed.
 
 

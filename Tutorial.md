@@ -13,21 +13,14 @@ This section will go into detail on how to prepare yourself to use the tool. You
 - The first step in to using the code is to download a coding program for pyhton laguage. This program/tool has been made with Spyder, a program which was launched by a navigator called Ananconda. To download Anaconda click [here](https://www.anaconda.com/download). Once the program hs been downloaded you can open it. After a short start up you will direclty be navigated to the home page. There you will see a button to launch Spyder, after a few moments you will find yourself in the python coding program. 
   
 - The code requires a precise directory that includes the script and IFC-file. It should look like this:
-
 ![Directory](Directory.png "Directory")
-    main folder
-    ├─ your_script.py
-    └─ model
-        └─ your_model.ifc
 
-- To run the code some packages must be installed in Anaconda because these are not already present. To do this press the window key and search for 'Anaconda Prompt' and run this as an administrator. Then copy the folowing lines of text into the program and press enter: . Wait until the screens says that th download has been completed.
-
-
-[README file](https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md)
-
+- To run the code some packages must be installed in Anaconda because these are not already present. To do this press the window key and search for 'Anaconda Prompt' and run this as an administrator. Then copy the folowing lines of text into the program and press enter. Wait until the screens says that the download has been completed.
 
 
 ## Run code
+This section will go through the output files and how to understand them. You can also watch to the video XXX for additional guidance.
+
 The group's script generates two Excel sheets as output:
 - “Output_file_1_Errors”
 - “Output_file_2_LCAbyg"

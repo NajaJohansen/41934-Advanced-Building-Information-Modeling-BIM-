@@ -1,16 +1,19 @@
 ## Introduction
-- Explanation of the tool and purpose
-- proof of concept
-- Only focusing at the doors.
-  
+The tool is intended for LCA consultants with little knowledge on BIM modelling and programming. Therefore, this tutorial aims to target role level 1 (modeller). Also, we advise to check the the "video tutorial" (hyperlink) as a complementary material. 
+
 Our tool extracts the necesary information of an IFC file in order to perform a life cycle analysis (LCA) of a buidling: materials and quantities. Besides, it identifies potential modelling errors (such as unrealistic dimensions or lack of material assignations) that could affect the outcomes of the LCA. This tool is a proof of concept and focus only on extracting information related to the doors of the building. A more detailed description of the tool can be found in [README file](https://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md)
 
-The tool is intended for LCA consultants with little knowledge on BIM modelling and programming. Therefore, this tutorial aims to target role level 1 (modeller). Also, we advise to check the the "video tutorial" (hyperlink) as a complementary material.  
+This tutorial will go through two sections:
+- How to get started
+- Run code and understand output files
 
 ## How to get started
-- The first step in to using the code is to download a coding program for pyhton laguage. The program has been made with Spyder an program which was launched by a   navigator called Ananconda. To download Anaconda click [here](https://www.anaconda.com/download). Once the program hs been downloaded you can open it, after a short start up you will direclty be navigated to the home page. There you will see a button to launch Spyder, after a few moments you will find yourself in the python coding program.
+This section will go into detail on how to prepare yourself to use the tool. You can also refer to the video XXX for additional guidance.
+
+- The first step in to using the code is to download a coding program for pyhton laguage. This program/tool has been made with Spyder, a program which was launched by a navigator called Ananconda. To download Anaconda click [here](https://www.anaconda.com/download). Once the program hs been downloaded you can open it. After a short start up you will direclty be navigated to the home page. There you will see a button to launch Spyder, after a few moments you will find yourself in the python coding program. 
   
 - The code requires a precise directory that includes the script and IFC-file. It should look like this:
+
   main folder
   ├── your_script.py
   ├── model
@@ -26,7 +29,7 @@ The tool is intended for LCA consultants with little knowledge on BIM modelling 
 ## Run code
 The group's script generates two Excel sheets as output:
 - “Output_file_1_Errors”
-- “Outputhttps://github.com/NajaJohansen/41934-Advanced-Building-Information-Modeling-BIM-/blob/main/README.md_file_2_LCAbyg"
+- “Output_file_2_LCAbyg"
 
 The first Excel sheet, “Output_file_1_Errors,” is a direct output that summarizes all the doors in the building with divergent values. These values can be caused by the mistakes in the IFC-file, and this output makes it easy to identify potential issues for future LCA (Life Cycle Assessment) calculations. There are two possible ways in which a door can receive an error. This is based on "rules" made by the group: either the area of the door is lower than 1.8m² (so an unrealistic door size), or the file does not provide any material information for the door. The output also indicates which of these errors has been assigned to a specific door. In the "Output_file_1_Errors," you can clearly see where there may be problems for future LCA calculations. 
 This detailed breakdown ensures that you can address issues promptly, ensuring the accuracy of your assessments. What you can do now is to send this specific overview back to the person responsible for the modeling process of the IFC file. In this way, communication becomes clear and effective between the modeling responsible and the LCA responsible.

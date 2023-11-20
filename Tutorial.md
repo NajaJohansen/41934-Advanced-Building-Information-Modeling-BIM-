@@ -14,6 +14,7 @@ This section will go into detail on how to prepare yourself to use the tool. You
   
 - The code requires a precise directory that includes the script and IFC-file. It should look like this:
 
+![Directory](Directory.png "Directory")
     main folder
     ├─ your_script.py
     └─ model

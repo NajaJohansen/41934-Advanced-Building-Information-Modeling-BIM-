@@ -8,7 +8,7 @@ This tutorial will go through two sections:
 - Run code and understand output files
 
 ## How to get started
-This section will go into detail on how to prepare yourself to use the tool. You can also refer to the video XXX for additional guidance.
+This section will go into detail on how to prepare yourself to use the tool. You can also refer to the [video](https://youtu.be/LjVTEKssetE) for additional guidance.
 
 - The first step in to using the code is to download a coding program for pyhton laguage. This program/tool has been made with Spyder, a program which was launched by a navigator called Ananconda. To download Anaconda click [here](https://www.anaconda.com/download). Once the program hs been downloaded you can open it. After a short start up you will direclty be navigated to the home page. There you will see a button to launch Spyder, after a few moments you will find yourself in the python coding program. 
   
@@ -23,7 +23,7 @@ This section will go into detail on how to prepare yourself to use the tool. You
 
 
 ## Run code
-This section will go through the output files and how to understand them. You can also watch to the video XXX for additional guidance.
+This section will go through the output files and how to understand them. You can also watch to the [video](https://youtu.be/VbBmxDzZhDM) for additional guidance.
 
 The group's script generates two Excel sheets as output:
 - “Output_file_1_Errors”

@@ -16,7 +16,7 @@ This section will go into detail on how to prepare yourself to use the tool. You
 
 ![Directory](Directory.png "Directory")
 
-- To run the code some packages must be installed in Anaconda because these are not already present. To do this you need to copy and paste the following code lines into the Spider console, press enter amd wait until the screens says that the download has been completed.
+- To run the code some packages must be installed in Anaconda because these are not already present. To do this you need to copy and paste the following code lines into the Spider console, press enter amd wait until the download has been completed.
     - pip install ifcopenshell
     - pip install xlswriter
     - pip install path

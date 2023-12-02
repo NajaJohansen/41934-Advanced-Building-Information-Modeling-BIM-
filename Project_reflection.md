@@ -36,4 +36,5 @@ Since all of us have some experience with coding is likely that we will use Open
 
 ## Conclusion 
 This process has been a rewarding journey filled with valuable insights and practical learning experiences. One standout aspect has been the freedom to choose our case study based on our own interests and experience, which kept us motivated during the course.  Although we only have delivered a proof of concept, we see the benefit of always keeping a broad view of our tool. Besides, developing and improving the same use case during the course using different perspectives is an enriching exercise.  
+
 Nevertheless, we see some areas of improvement. We believe the biggest difficulty was extracting specific data from the IFC file. Thus, we advise including more exercises or providing relevant resources to give students a small headstart. Although there was already a lecture from some external OpenBIM professionals, it could have been nice to have more examples of how OpenBIM is used in the industry.
